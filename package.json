@@ -40,7 +40,7 @@
     "@capacitor/ios": "^2.5.0",
     "@ionic-native/core": "^5.36.0",
     "@ionic-native/fingerprint-aio": "^5.36.0",
-    "@ionic/react": "^5.7.0",
+    "@ionic/react": "^5.9.4",
     "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "^5.7.0",
     "@kubernetes/client-node": "^0.15.1",
