@@ -45,7 +45,7 @@
     "@ionic/react-router": "^5.7.0",
     "@kubernetes/client-node": "^0.15.1",
     "@types/jest": "^27.0.1",
-    "@types/node": "^16.9.1",
+    "@types/node": "^16.11.36",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
     "@types/react-router": "^5.1.16",
