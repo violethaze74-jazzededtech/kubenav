@@ -22,7 +22,7 @@ COPY pkg /kubenav/pkg
 COPY Makefile /kubenav
 RUN make build-server
 
-FROM alpine:3.14
+FROM alpine:3.15
 RUN apk update && apk add --no-cache ca-certificates
 RUN mkdir /kubenav
 COPY --from=build /kubenav/build /kubenav/build
