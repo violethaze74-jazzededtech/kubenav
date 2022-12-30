@@ -52,7 +52,7 @@
     "@types/react-router-dom": "^5.1.8",
     "@types/sockjs-client": "^1.5.1",
     "cordova-plugin-fingerprint-aio": "^4.0.2",
-    "fast-json-patch": "^3.1.0",
+    "fast-json-patch": "^3.1.1",
     "ionicons": "^5.5.3",
     "js-yaml": "^4.1.0",
     "pako": "^2.0.4",
