@@ -43,7 +43,7 @@
     "@ionic/react": "^5.7.0",
     "@ionic/react-hooks": "0.0.8",
     "@ionic/react-router": "^5.7.0",
-    "@kubernetes/client-node": "^0.15.1",
+    "@kubernetes/client-node": "^0.18.1",
     "@types/jest": "^27.0.1",
     "@types/node": "^16.9.1",
     "@types/react": "^17.0.20",
