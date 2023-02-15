@@ -19,7 +19,7 @@ require (
 	github.com/imdario/mergo v0.3.8 // indirect
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.30.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/pflag v1.0.5
